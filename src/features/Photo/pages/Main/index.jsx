@@ -28,7 +28,7 @@ function MainPage(props) {
 
   return (
     <div className="photo-main">
-      <Banner title="🎉 Your awesome photos 🎉" backgroundUrl={Images.PINK_BG} />
+      <Banner title="Your awesome photos" backgroundUrl={Images.BLUE_BG} />
 
       <Container className="text-center">
         <div className="py-5">
